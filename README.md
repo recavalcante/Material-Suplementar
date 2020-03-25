@@ -6,10 +6,10 @@ Intitulada Investigação exploratória dos fatores genéticos associados ao sis
 
 ## Sobre os arquivos
 
-### arapaima_gigas_microssatelites(95485).xlsx
+##### arapaima_gigas_microssatelites(95485).xlsx
 
 
-### Genes_identify_in_Scaffolds_ROH.xlsx	
+#### Genes_identify_in_Scaffolds_ROH.xlsx	
 
 Tabela que possui 22 scaffold's em Runs of Homozygosity (ROH) e os transcritos identificados nestes scaffold's.
 
