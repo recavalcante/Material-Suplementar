@@ -1,7 +1,6 @@
 # Material Suplementar
 
-One Paragraph of project description goes here
+Este repositório contém o Apêndice C da Dissertação de Mestrado apresentada ao Programa de Pós-Graduação em Bioinformática da Universidade Federal do Rio Grande do Norte como requisito parcial para a obtenção do grau de Mestre em Bioinformática. Intitulada Investigação exploratória dos fatores genéticos associados ao sistema de determinação sexual em Arapaima gigas (Pirarucu).
 
-## Getting Started
+## Sobre os arquivos
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
